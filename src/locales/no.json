@@ -1,0 +1,14 @@
+{
+    "language_English": "Engelsk",
+    "language_Norsk": "Norsk",
+    "overview": {
+        "title": "Oversikt",
+        "description": "Dette er oversikten over dashboard ditt.",
+        "activeCampaigns": {
+            "title": "Aktive kampanjer"
+        },
+        "activities": {
+            "title": "Aktiviteter"
+        }
+    }
+}

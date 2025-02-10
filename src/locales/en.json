@@ -1,0 +1,14 @@
+{
+    "language_English": "English",
+    "language_Norsk": "Norwegian",
+    "overview": {
+        "title": "Overview",
+        "description": "This is the overview page.",
+        "activeCampaigns": {
+            "title": "Active campaigns"
+        },
+        "activities": {
+            "title": "Activities"
+        }
+    }
+}
