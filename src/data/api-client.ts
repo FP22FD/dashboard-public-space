@@ -1,4 +1,4 @@
-import data from './data-copy.json';
+import data from './dataClient.json';
 
 export function load(): Client[] {
   return data as Client[];
