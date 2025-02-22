@@ -1,6 +1,15 @@
 # Study Case | React, TypeScript, TailwindCSS & i18Next
 
+![Project Implemented Overview](docs/publicSpace.png)
+
 This project is a prototype for a study case, where the goal is to visualize client campaign data and provide an intuitive user interface for employees (client leads and campaign planners) to navigate and manage campaign details. The system should allow users to interact with the data to get a breakdown of client information.
+
+This prototype was designed and implemented within 3 days.
+
+## Internationalization (i18Next)
+
+This project includes a basic implementation of `i18Next` in the overview page to demonstrate how language translation can be integrated.
+Given the limited timeframe for prototype development, a full implementation of i18Next on all pages was not included.
 
 ## Development Environment
 
@@ -25,10 +34,6 @@ npm run build
 - [Hosted demo on Netlify](https://dashboard-public-space.netlify.app/)
 - [Figma Prototype](https://www.figma.com/proto/b5rDIng0Ep68f8OuEcRbyG/7.Publicis-Norge-%7C-Case-study?page-id=20008%3A25268&node-id=20008-25269&p=f&viewport=298%2C44%2C0.38&t=9QGf6dzb4x69aIXq-1&scaling=min-zoom&content-scaling=fixed)
 - [System Guide](https://www.figma.com/proto/b5rDIng0Ep68f8OuEcRbyG/7.Publicis-Norge-%7C-Case-study?page-id=9046%3A70050&node-id=16305-8771&p=f&viewport=327%2C71%2C0.13&t=KRYBuj4kn0msudAp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=16305%3A8771)
-
-## Development Timeline
-
-This prototype was designed and implemented within 3 days.
 
 ## Case description
 
